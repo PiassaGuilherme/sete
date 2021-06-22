@@ -64,7 +64,7 @@ npm config set python "C:\\Python27-x64\\pythonw.exe"
 git clone https://github.com/marcosroriz/sete/
 ```
 
-Depois instale as dependência:
+Depois instale as dependências:
 
 ```sh
 npm install
